@@ -10,3 +10,6 @@ Nous avons choisi de simuler l’évolution d’une colonie de castors dans la n
 3) Le nombre max d’itérations à été atteint
 
 Les castors peuvent manger des fruits présents sur le terrain qui leurs feront gagner de l’énergie (points de vie). Ces fruits peuvent pourrir dans quel cas si un castor les mange dans cet état, ils perdront de l’énergie.
+
+```javac *.java``` puis
+```java TestSimulation```
